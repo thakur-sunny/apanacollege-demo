@@ -1,4 +1,5 @@
 # apanacollege-demo
+
 this is my first repository
 <br>
-Author:sunny Thakur
+Author:sunny Thakur(himachal perdesh)
